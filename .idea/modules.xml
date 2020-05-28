@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/com.locadora/com.locadora.iml" filepath="$PROJECT_DIR$/com.locadora/com.locadora.iml" />
+      <module fileurl="file://$PROJECT_DIR$/projeto-locadora.iml" filepath="$PROJECT_DIR$/projeto-locadora.iml" />
+    </modules>
+  </component>
+</project>
